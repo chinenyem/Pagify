@@ -14,13 +14,13 @@
     this.defaults = {
       'pages': [],
       'default': null,
-      'animation': 'show',
+      'animation': 'slideUp',
       'animationSpeed': 'normal',
       'animationOut': 'hide',
       'animationOutSpeed': 0,
       'onChange': function (page) {},
       'cache': false,
-      'basePagePath': ''
+      'basePagePath':'http://localhost:4000/demo/'
     };
     this.settings = $.extend({}, this.defaults, options);
 
