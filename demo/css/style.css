@@ -216,6 +216,9 @@ th:hover .menuHighlight {
   width: 14.1em;
   margin-left: -5%; }
 
+#user h4 {
+  color: white; }
+
 #nameuser {
   margin-left: -6%;
   color: white;
@@ -224,6 +227,8 @@ th:hover .menuHighlight {
 #dateuser {
   padding-left: 0%;
   padding-top: 25%; }
+  #dateuser h4 {
+    color: white; }
 
 .checkbox input[type=checkbox] {
   margin-left: -22px;
@@ -272,7 +277,8 @@ th:hover .menuHighlight {
 .feeder {
   border: 2px solid white;
   height: 30em;
-  color: white; }
+  color: white;
+  overflow: scroll; }
 
 #morecharts_ul {
   display: inline; }
