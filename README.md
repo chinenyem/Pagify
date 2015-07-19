@@ -3,3 +3,7 @@ This is a interactive demo of form, cool table made with bootstrap table and das
 Link:
 
 https://interactivedashboard.firebaseapp.com
+
+link to video :
+https://video-atl1-1.xx.fbcdn.net/hvideo-xpt1/v/t42.1790-2/11755538_10101282393649854_1419268105_n.mp4?efg=eyJybHIiOjgwOCwicmxhIjo1MTJ9&rl=808&vabr=449&oh=7e001049abe9b1fe431f85840aa27f2d&oe=55AC4AF7
+
